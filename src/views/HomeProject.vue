@@ -6,7 +6,7 @@
                 ZulApp!
             </div>
             <div class="col font-italic border align-self-center p-1" style="font-size: 2vmin;">
-                Assigment Result by Zulkariski from PT. Log Kar Indonesia
+                Assigment Result by Zulkariski to PT. Log Kar Indonesia
             </div>
         </div>
 
