@@ -15,7 +15,7 @@
 
                 <div class="row mt-5 mb-4 justify-content-between justify-content-md-center align-items-start">
 
-                    <div class="col-5 col-md-8 col-sm-11 bg-white p-3 rounded shadow-sm text-left cardTask">
+                    <div class="col-lg-5 col-md-8 col-sm-11 bg-white p-3 rounded shadow-sm text-left cardTask">
                         <span class="titleTask">
                             TASK NO.1
                         </span>
@@ -41,7 +41,7 @@
                         </span>
                     </div>
 
-                    <div class="col-5 col-md-8 col-sm-11 bg-white p-3 rounded shadow-sm text-left cardTask">
+                    <div class="col-lg-5 col-md-8 col-sm-11 bg-white p-3 rounded shadow-sm text-left cardTask">
                         <span class="titleTask">
                             TASK NO.2
                         </span>
@@ -67,7 +67,7 @@
                         </span>
                     </div>
 
-                    <div class="col-5 col-md-8 col-sm-11 bg-white p-3 rounded shadow-sm text-left cardTask">
+                    <div class="col-lg-5 col-md-8 col-sm-11 bg-white p-3 rounded shadow-sm text-left cardTask">
                         <span class="titleTask">
                             TASK NO.3
                         </span>
@@ -93,7 +93,7 @@
                         </span>
                     </div>
 
-                    <div class="col-5 col-md-8 bg-white p-3 rounded shadow-sm text-left cardTask">
+                    <div class="col-lg-5 col-md-8 bg-white p-3 rounded shadow-sm text-left cardTask">
                         <span class="titleTask">
                             TASK NO.4
                         </span>
