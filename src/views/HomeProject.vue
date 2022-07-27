@@ -148,10 +148,10 @@
 export default {
     data(){
         return {
-            checkPalindrome: 'https://replit.com/join/mupnazmjsf-zulkariski',
-            coolTriangle: 'https://replit.com/join/uudlraxyhr-zulkariski',
-            convertBeautyJSON: 'https://replit.com/join/fhgdfnicts-zulkariski',
-            createWebApp: 'https://replit.com/join/mfkwpimvkl-zulkariski',
+            checkPalindrome: 'https://codepen.io/zulkamaula/pen/JjLryLB',
+            coolTriangle: 'https://codepen.io/zulkamaula/pen/dymVVdo',
+            convertBeautyJSON: 'https://codepen.io/zulkamaula/pen/jOzGGZz',
+            createWebApp: 'https://github.com/zulkamaula/MAV---Movie-Vue-App',
             deployApps: {
                 myMav: 'https://mymav.netlify.app/'
             }
